@@ -1,4 +1,4 @@
-input = open("/home/alaitz/Development/advent-code-2022/puzzle-1/input.txt", "r")
+input = open("/home/alaitz/Development/advent-code-2022/day-1/input.txt", "r")
 
 lines = input.readlines()
 max = 0
